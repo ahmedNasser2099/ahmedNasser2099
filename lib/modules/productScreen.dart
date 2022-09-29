@@ -207,7 +207,6 @@ class ProductScreen extends StatelessWidget {
                                                 },
                                               ),
                                             );
-                                           // scaffoldKey.currentState?.showSnackBar(snackBar);
                                             print('order id: ' + number);
                                             print('ddasdas');
                                           },
